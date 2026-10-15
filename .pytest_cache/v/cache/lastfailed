@@ -1,0 +1,5 @@
+{
+  "tests/test_report_guidance.py::test_a_short_track_record_is_called_out_with_the_arithmetic": true,
+  "tests/test_report_guidance.py::test_deflated_sharpe_and_overfitting_each_get_their_own_warning": true,
+  "tests/test_report_guidance.py::test_the_benchmark_handicap_is_stated_once": true
+}
